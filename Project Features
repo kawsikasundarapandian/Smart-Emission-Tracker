@@ -1,0 +1,72 @@
+🔐 1️⃣ User Authentication
+
+Register new account
+
+Secure login system
+
+Multi-user support
+
+📥 2️⃣ Daily Emission Data Entry
+
+Enter travel mode (Car, Bike, Bus, Train, Flight)
+
+Enter travel distance (km)
+
+Enter electricity usage (kWh)
+
+Automatic carbon emission calculation
+
+📊 3️⃣ Interactive Dashboard
+
+📈 Line Chart – Daily emission trend
+
+📊 Bar Chart – Monthly emission summary
+
+🥧 Pie Chart – Travel mode usage
+
+🧭 Gauge Chart – Carbon level indicator
+
+🤖 4️⃣ AI-Based 7-Day Forecast
+
+Uses Random Forest algorithm
+
+Predicts future emission trends
+
+Helps users plan reduction strategies
+
+🌟 5️⃣ Sustainability Score
+
+Calculates eco score out of 100
+
+Shows how environmentally friendly the user is
+
+🎯 6️⃣ Monthly Goal Tracking
+
+Users can set emission target
+
+System shows whether goal is achieved or exceeded
+
+📥 7️⃣ Data Export
+
+Download emission data as CSV file
+
+🌱 8️⃣ Eco Safety Chatbot
+
+Provides eco-friendly tips
+
+Answers questions about reducing emissions
+
+🌐 9️⃣ Multi-Language Support
+
+English
+
+Tamil
+
+Hindi
+
+🎨 🔟 Theme Customization
+
+Light Mode
+
+Dark Mode
+
