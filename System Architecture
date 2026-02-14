@@ -1,0 +1,11 @@
+User (Browser)
+       ↓
+Streamlit Web App
+       ↓
+Emission Calculation Engine
+       ↓
+SQLite Database
+       ↓
+Data Visualization + AI Prediction
+       ↓
+Dashboard Output to User
